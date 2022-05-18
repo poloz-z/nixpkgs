@@ -1,5 +1,5 @@
 # nixpkgs
 Mi config, Home Manager on Nixos
 
-##Usage
+## Usage
 Copy in **$HOME/.config/nixpkgs/** 
